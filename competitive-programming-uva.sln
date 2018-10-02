@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11498 - Division of Nlogonia", "11498 - Division of Nlogonia\11498 - Division of Nlogonia.vcxproj", "{8187A18F-8416-4506-BB76-082232AB0809}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1272 - TEX Quotes", "Project1272 - TEX Quotes\Project1272 - TEX Quotes.vcxproj", "{7797A721-D9AB-4D20-A61E-753C5D70BFA9}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11172 - Relational Operators", "11172 - Relational Operators\11172 - Relational Operators.vcxproj", "{1E81673A-7474-46E8-80CD-33B19706731E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11727 - Cost Cutting", "11727 - Cost Cutting\11727 - Cost Cutting.vcxproj", "{8E20584D-109C-4A79-B5AB-936E69BE7BBE}"
@@ -18,6 +16,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11496 - Musical Loop", "11496 - Musical Loop\11496 - Musical Loop.vcxproj", "{45170F5F-726F-440F-AAEC-13053A99747C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "100 - The 3n + 1 problem", "100 - The 3n + 1 problem\100 - The 3n + 1 problem.vcxproj", "{2E0C3770-619B-4164-9682-89B6FD6BBE99}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1272 - TEX Quotes", "1272 - TEX Quotes\1272 - TEX Quotes.vcxproj", "{6770FDA7-4C3E-4BFC-A9F7-7E18DB7C3A7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,14 +35,6 @@ Global
 		{8187A18F-8416-4506-BB76-082232AB0809}.Release|x64.Build.0 = Release|x64
 		{8187A18F-8416-4506-BB76-082232AB0809}.Release|x86.ActiveCfg = Release|Win32
 		{8187A18F-8416-4506-BB76-082232AB0809}.Release|x86.Build.0 = Release|Win32
-		{7797A721-D9AB-4D20-A61E-753C5D70BFA9}.Debug|x64.ActiveCfg = Debug|x64
-		{7797A721-D9AB-4D20-A61E-753C5D70BFA9}.Debug|x64.Build.0 = Debug|x64
-		{7797A721-D9AB-4D20-A61E-753C5D70BFA9}.Debug|x86.ActiveCfg = Debug|Win32
-		{7797A721-D9AB-4D20-A61E-753C5D70BFA9}.Debug|x86.Build.0 = Debug|Win32
-		{7797A721-D9AB-4D20-A61E-753C5D70BFA9}.Release|x64.ActiveCfg = Release|x64
-		{7797A721-D9AB-4D20-A61E-753C5D70BFA9}.Release|x64.Build.0 = Release|x64
-		{7797A721-D9AB-4D20-A61E-753C5D70BFA9}.Release|x86.ActiveCfg = Release|Win32
-		{7797A721-D9AB-4D20-A61E-753C5D70BFA9}.Release|x86.Build.0 = Release|Win32
 		{1E81673A-7474-46E8-80CD-33B19706731E}.Debug|x64.ActiveCfg = Debug|x64
 		{1E81673A-7474-46E8-80CD-33B19706731E}.Debug|x64.Build.0 = Debug|x64
 		{1E81673A-7474-46E8-80CD-33B19706731E}.Debug|x86.ActiveCfg = Debug|Win32
@@ -91,6 +83,14 @@ Global
 		{2E0C3770-619B-4164-9682-89B6FD6BBE99}.Release|x64.Build.0 = Release|x64
 		{2E0C3770-619B-4164-9682-89B6FD6BBE99}.Release|x86.ActiveCfg = Release|Win32
 		{2E0C3770-619B-4164-9682-89B6FD6BBE99}.Release|x86.Build.0 = Release|Win32
+		{6770FDA7-4C3E-4BFC-A9F7-7E18DB7C3A7C}.Debug|x64.ActiveCfg = Debug|x64
+		{6770FDA7-4C3E-4BFC-A9F7-7E18DB7C3A7C}.Debug|x64.Build.0 = Debug|x64
+		{6770FDA7-4C3E-4BFC-A9F7-7E18DB7C3A7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{6770FDA7-4C3E-4BFC-A9F7-7E18DB7C3A7C}.Debug|x86.Build.0 = Debug|Win32
+		{6770FDA7-4C3E-4BFC-A9F7-7E18DB7C3A7C}.Release|x64.ActiveCfg = Release|x64
+		{6770FDA7-4C3E-4BFC-A9F7-7E18DB7C3A7C}.Release|x64.Build.0 = Release|x64
+		{6770FDA7-4C3E-4BFC-A9F7-7E18DB7C3A7C}.Release|x86.ActiveCfg = Release|Win32
+		{6770FDA7-4C3E-4BFC-A9F7-7E18DB7C3A7C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
