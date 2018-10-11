@@ -33,7 +33,7 @@ int main() {
 		for (int i = 0; i < m; i++) {
 			int key, position;
 			cin >> key;
-			position = binary_search(nums, key);
+			position = search(nums, key);
 			if (position == -1) {
 				cout << key << " not found" << endl;
 			}
